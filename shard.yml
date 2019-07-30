@@ -11,5 +11,7 @@ license: MIT
 
 dependencies:
   i18n:
-    github: TechMagister/i18n.cr
-    version: 0.2.0
+    # github: TechMagister/i18n.cr
+    # version: 0.2.0
+    github: bcardiff/i18n.cr
+    branch: crystal/v0.30.0
